@@ -1,0 +1,121 @@
+body {
+/*   background: teal; */
+  padding: 5%;
+  font-family: 'Roboto', sans-serif;
+  color: #EFEBE7;
+  background: #4C4C5C;
+}
+
+.float_center {
+/*   float: right; */
+/* margin: 0 auto;
+  width: 900px;
+  position: relative; */
+/*   left: -50%; or right 50% */
+/*   text-align: center; */
+}
+.float_center > .child {
+/*   position: relative;
+  left: 50%; */
+}
+
+
+
+body {
+/*   background: orange; */
+  
+}
+
+main {
+/*   background: green; */
+/*   width: 50%; */
+}
+
+section {
+  border: 2px solid #EFEBE7;
+  background: #4C4C5F;
+  margin: 0 auto;
+  width: 520px;
+  position: relative;
+/*   width: 50%; */
+/*   margin: 0 auto; */
+/*   text-align: center; */
+  
+  
+}
+
+.temp {
+  font-size: 10em;
+/*   background: #fff; */
+  
+}
+
+
+
+.temp, .currently {
+  margin: 0 auto;
+  padding: 0 30px;
+/*   background: green; */
+  float: left;
+  width: 200px;
+  text-align: center;
+  
+}
+
+.currently {
+/*   background: #ff9; */
+
+/*   margin: 30px; */
+}
+
+.yes, .image {
+/*   background: #f3f; */
+/*   width: 305px; */
+  float: right;
+/*   margin-bottom:150px; */
+/*   padding-bottom: 200px; */
+/*   position: inline-block; */ 
+}
+
+.image {
+/*   background: pink; */
+}
+.group {
+/*   background: brown; */
+  margin: 0 auto;
+  padding: 0 100px;
+  display: inline-block;
+  text-align: center;
+ 
+  
+}
+
+.city, .region {
+/*   background: gray; */
+  display: inline-block;
+  padding-right: 20px;
+  
+ 
+
+}
+
+.city {
+/*   background: white; */
+  
+}
+
+.title {
+  padding-bottom: 30px;
+/*   background: white; */
+  margin: 0 auto;
+
+}
+
+button {
+  background: teal;
+  border: .5px, #EFEBE7;
+}
+
+button:hover{
+  background: #01756C;
+}
